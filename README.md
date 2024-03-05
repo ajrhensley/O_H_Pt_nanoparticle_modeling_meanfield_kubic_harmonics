@@ -1,0 +1,1 @@
+# O_H_Pt_nanoparticle_modeling_meanfield_kubic_harmonics
