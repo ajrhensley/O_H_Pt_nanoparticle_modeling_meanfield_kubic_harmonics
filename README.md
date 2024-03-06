@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "Coverage and Facet Dependent Multiscale Modeling of O* and H* Adsorption on Pt Catalytic Nanoparticles"
-The original research article is by Ayodeji Omoniyi* and Alyssa J.R. Hensley*, and is currently under review with _The Journal of Physical Chemistry C_.
+The original research article is by Ayodeji Omoniyi* and Alyssa J.R. Hensley*, and is under review with _The Journal of Physical Chemistry C_ (last updated March 6, 2024).
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
